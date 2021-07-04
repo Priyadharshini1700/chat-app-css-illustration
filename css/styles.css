@@ -306,13 +306,15 @@ margin-top: 5px;
   margin:auto;
 }
 .bottom h1{
-padding-right: 170px;
+
 padding-bottom: 0;
+  text-align:left;
 }
 
 .bottom p{
   text-align: left;
   padding-top: 0;
+  padding-left:0;
 }
 .attribution{
   bottom:720px;
